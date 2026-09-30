@@ -34,11 +34,6 @@ Unfortunately, development appears to have slowed significantly, and many users 
 Nekomo is a community project inspired by the legacy of Kuro No and Shiro.
 
 The goal of Nekomo is not only to preserve parts of what made those projects special but also to provide a place where anime fans can gather, share resources, discuss anime, and exchange information about alternative applications and related projects.
-
-At the moment, Nekomo is currently on hold and future development remains uncertain. The project may eventually receive updates, be rewritten from scratch, remain inactive, or be continued by new contributors.
-
-Despite this, the community remains open to anime fans, developers, and anyone interested in helping preserve or improve projects inspired by Kuro No.
-
 ---
 
 ## 📢 Current Nekomo Status
