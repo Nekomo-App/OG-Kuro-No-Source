@@ -31,22 +31,43 @@ Unfortunately, development appears to have slowed significantly, and many users 
 
 ## 🐱 About Nekomo
 
-Nekomo is a community project inspired by the legacy of Kuro No and Shiro.
+Nekomo (猫も, "cat too") is a community project inspired by the legacy of Kuro No and Shiro, and it has since been rebuilt from the ground up as an anime & manga client for **Android and Android TV**.
 
-The goal of Nekomo is not only to preserve parts of what made those projects special but also to provide a place where anime fans can gather, share resources, discuss anime, and exchange information about alternative applications and related projects.
+The goal of Nekomo is not only to preserve parts of what made those projects special, but also to give anime fans a polished app and a place to gather, share resources, discuss anime, and exchange information about alternative applications and related projects.
+
+What it does today:
+
+* 🎌 AniList, MyAnimeList and Kitsu sign-in and list sync
+* 🧩 **Bring your own sources.** Nekomo ships with *no* sources, repositories or extensions. You add your own CloudStream, Zangetsu, Aniyomi or Mihon repositories and install what you want
+* 📖 Built-in manga reader, per-title source chooser and Stable / Beta / Debug channels
+* 🔄 In-app updates through GitHub releases, and a phone + Android TV build from one codebase
+
 ---
 
 ## 📢 Current Nekomo Status
 
-> **Project Status: On Hold**
+> **Project Status: Active (community-maintained)**
 >
-> * Original development has slowed significantly.
-> * The application may not function correctly.
-> * Future updates are not guaranteed.
+> * Nekomo has been rebuilt and is being actively improved.
+> * Stable, Beta and Debug builds exist for phone and Android TV.
+> * Development is community-driven and future updates are not guaranteed.
 > * Contributors and developers are welcome.
-> * The project may become private in the future.
 
-For now, Nekomo primarily serves as an anime community and resource hub.
+Nekomo is also still an anime community and resource hub.
+
+---
+
+## 🔗 Nekomo Links
+
+| | |
+|---|---|
+| 🌍 Website | https://nekomoapp.netlify.app |
+| 📦 Downloads | https://github.com/Nekomo-App/Nekomo/releases |
+| 🐱 Main project | https://github.com/Nekomo-App/Nekomo |
+| 💻 App source code | https://github.com/Nekomo-App/neko-source |
+| 🧭 Sources guide | https://nekomoapp.netlify.app/sources |
+| 💬 Discord | https://discord.com/invite/E4Ezmgg7Ka |
+| ✈️ Telegram | https://t.me/nekomoapp |
 
 ---
 
@@ -75,3 +96,5 @@ It is not affiliated with, endorsed by, sponsored by, or connected to the origin
 All trademarks, names, logos, and copyrights belong to their respective owners.
 
 This repository exists for informational, archival, and community purposes only.
+
+Nekomo does not host, include or provide any content, sources, repositories or extensions. Anything a user installs is their own choice and responsibility. See https://nekomoapp.netlify.app/dmca.
