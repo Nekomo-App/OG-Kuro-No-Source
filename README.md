@@ -98,3 +98,13 @@ All trademarks, names, logos, and copyrights belong to their respective owners.
 This repository exists for informational, archival, and community purposes only.
 
 Nekomo does not host, include or provide any content or third-party sources or extensions, and installs nothing unless the user chooses to. Anything a user installs is their own choice and responsibility. See https://nekomoapp.netlify.app/dmca.
+
+## Project links
+
+- Website: https://nekomoapp.netlify.app ([screenshots](https://nekomoapp.netlify.app/gallery), [sources guide](https://nekomoapp.netlify.app/sources))
+- App: [Nekomo](https://github.com/Nekomo-App/Nekomo) and its code in [Neko-Source](https://github.com/Nekomo-App/Neko-Source)
+- Docs: [Nekomo-Docs](https://github.com/Nekomo-App/Nekomo-Docs) and [Nekomo-Extensions](https://github.com/Nekomo-App/Nekomo-Extensions)
+- Website source: [Nekomo-Main-Web](https://github.com/Nekomo-App/Nekomo-Main-Web)
+- Legal: [Nekomo-DMCA](https://github.com/Nekomo-App/Nekomo-DMCA)
+- Brand: [Nekomo-Branding](https://github.com/Nekomo-App/Nekomo-Branding)
+- History: [OG-Kuro-No-Source](https://github.com/Nekomo-App/OG-Kuro-No-Source) (archive) and [Nekomo-Web](https://github.com/Nekomo-App/Nekomo-Web) (retired)
