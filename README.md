@@ -38,7 +38,7 @@ The goal of Nekomo is not only to preserve parts of what made those projects spe
 What it does today:
 
 * 🎌 AniList, MyAnimeList and Kitsu sign-in and list sync
-* 🧩 **Bring your own sources.** Nekomo ships with *no* sources, repositories or extensions. You add your own CloudStream, Zangetsu, Aniyomi or Mihon repositories and install what you want
+* 🧩 **Bring your own sources.** Nekomo ships with *no* sources installed (an optional official repository of free and legal sources is available, and you can add your own repositories). You add your own CloudStream, Zangetsu, Aniyomi or Mihon repositories and install what you want
 * 📖 Built-in manga reader, per-title source chooser and Stable / Beta / Debug channels
 * 🔄 In-app updates through GitHub releases, and a phone + Android TV build from one codebase
 
@@ -97,4 +97,4 @@ All trademarks, names, logos, and copyrights belong to their respective owners.
 
 This repository exists for informational, archival, and community purposes only.
 
-Nekomo does not host, include or provide any content, sources, repositories or extensions. Anything a user installs is their own choice and responsibility. See https://nekomoapp.netlify.app/dmca.
+Nekomo does not host, include or provide any content or third-party sources or extensions, and installs nothing unless the user chooses to. Anything a user installs is their own choice and responsibility. See https://nekomoapp.netlify.app/dmca.
